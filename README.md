@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Md Parvez, a Mobile App Developer. Skilled in cross-platform (Flutter) and Android (Java/Kotlin) development. open to remote opportunities.
 <!--
 **parvez24h/parvez24h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
