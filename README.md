@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Md Parvez, a Mobile App Developer. Skilled in cross-platform (Flutter) and Android (Java/Kotlin) development. open to remote opportunities.
+My name is Md Parvez, and I'm a dedicated mobile app developer with expertise in Flutter and Android. Currently, I work as a Jr. Software Engineer at Brotect Technology Ltd., where I focus on creating efficient, user-centered mobile applications. I hold a B.Sc. in Computer Science and Engineering, which has equipped me with a strong technical foundation and problem-solving skills. I am particularly passionate about remote work opportunities that allow me to leverage my skills in building scalable and impactful mobile solutions while collaborating with diverse, global teams.
 <!--
 **parvez24h/parvez24h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
