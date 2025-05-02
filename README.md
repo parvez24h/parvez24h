@@ -2,6 +2,7 @@
 
 I'm a **Junior Software Engineer** specializing in **Android and Flutter Development**. I'm passionate about building scalable, user-friendly mobile applications and exploring new technologies like AI and VoIP. I'm always open to collaborating on exciting projects and contributing to innovative solutions.
 
+- 📄 Know about my experiences [https://parvez24h.github.io/portfolio/](https://parvez24h.github.io/portfolio/)
 ---
 
 ## 🛠️ Technologies & Tools
