@@ -1,6 +1,6 @@
 # Hi there, I'm MD Parvez! 👋
 
-I'm a **Junior Software Engineer** specializing in **Android and Flutter Development**. I'm passionate about building scalable, user-friendly mobile applications and exploring new technologies like AI and VoIP. I'm always open to collaborating on exciting projects and contributing to innovative solutions.
+I'm a **Software Engineer** specializing in **Android and Flutter Development**. I'm passionate about building scalable, user-friendly mobile applications and exploring new technologies like AI and VoIP. I'm always open to collaborating on exciting projects and contributing to innovative solutions.
 
 - 📄 Know about my experiences [https://parvez24h.github.io/portfolio/](https://parvez24h.github.io/portfolio/)
 ---
@@ -11,7 +11,8 @@ I'm a **Junior Software Engineer** specializing in **Android and Flutter Develop
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ### Frameworks & Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
