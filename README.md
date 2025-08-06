@@ -1,8 +1,8 @@
 # Hi there, I'm MD Parvez! 👋
 
-I'm a **Software Engineer** specializing in **Android and Flutter Development**. I'm passionate about building scalable, user-friendly mobile applications and exploring new technologies like AI and VoIP. I'm always open to collaborating on exciting projects and contributing to innovative solutions.
+Passionate **Mobile App Developer** with 3+ years of experience in **Android** (**Java**/**Kotlin**) and cross-platform apps using **Flutter**. I'm always open to creating innovative solutions and continuously looking for challenging roles to grow and contribute to impactful projects.
 
-- 📄 Know about my experiences [https://parvez24h.github.io/portfolio/](https://parvez24h.github.io/portfolio/)
+- 📄 Know about my experiences [https://parvez24h.vercel.app/](https://parvez24h.vercel.app/)
 ---
 
 ## 🛠️ Technologies & Tools
